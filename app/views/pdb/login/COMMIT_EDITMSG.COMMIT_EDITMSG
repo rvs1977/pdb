@@ -1,0 +1,19 @@
+This is my la la la
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/app/views/pdb/login/ng_login.blade.php b/app/views/pdb/login/ng_login.blade.php
+index 7eb18a9..74fc49b 100644
+--- a/app/views/pdb/login/ng_login.blade.php
++++ b/app/views/pdb/login/ng_login.blade.php
+@@ -6,7 +6,7 @@
+       <h3>{{ Lang::get('pdb_msg.please_log_in_or') }}<a href="#">{{ Lang::get('pdb_msg.sign_up') }}</a></h3>
+       <div class="row">
+         <div class="col-xs-8 col-sm-8 col-md-8">
+-          <a href="#" class="btn btn-lg btn-danger btn-block">ProduktDatabasen LALALA</a>
++          <a href="#" class="btn btn-lg btn-danger btn-block">ProduktDatabasen BUBUBU</a>
+         </div>
+         
+       </div>
