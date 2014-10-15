@@ -6,7 +6,7 @@
       <h3>{{ Lang::get('pdb_msg.please_log_in_or') }}<a href="#">{{ Lang::get('pdb_msg.sign_up') }}</a></h3>
       <div class="row">
         <div class="col-xs-8 col-sm-8 col-md-8">
-          <a href="#" class="btn btn-lg btn-danger btn-block">ProduktDatabasen HÆHÆ</a>
+          <a href="#" class="btn btn-lg btn-danger btn-block">ProduktDatabasen HÆHÆHÆ</a>
         </div>
         
       </div>
